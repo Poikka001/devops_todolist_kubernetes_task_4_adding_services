@@ -9,4 +9,4 @@ spec:
     image: ikulyk404/busyboxplus:curl
     args:
     - sleep
-    - "1000"
+    - "3600"
